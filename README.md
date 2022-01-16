@@ -1,12 +1,12 @@
 ## Hey there, happy to see you... 
 
-I'm [Shreya Aggarwal](https://www.linkedin.com/in/samyak-jain-1802)!, a passionate [Programmer](https://intellipaat.com/artificial-intelligence-masters-training-course/) 🚀.
+I'm [Shreya Aggarwal](https://www.linkedin.com/in/shreya-aggarwal-1627b8119/)!, a passionate Programmer 🚀.
 <!-- Thankful to [Coding Blocks](http://codingblocks.com/). <br> -->
-A CS student at [Chandigarh University](https://www.cuchd.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
+A M.Tech student at [Graphic Era University](https://www.geu.ac.in). Dream to be a <b>FAANG™️</b> Engineer.<br>
 <!-- Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/). -->
 Love to solve complex things in simple ways.
 
-  <img align="left" alt="GIF" src="https://github.com/jainsamyak9/jainsamyak9/blob/main/hi%20.gif" width="230px" />
+  <img align="left" alt="GIF" src="https://github.com/shreyaaggarwal4263/shreyaaggarwal4263/blob/main/hi%20.gif" width="230px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsamyak9&theme=dark&show_icons=true">
 
 
