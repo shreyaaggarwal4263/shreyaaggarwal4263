@@ -76,8 +76,8 @@ Love to solve complex things in simple ways.
       </a>
      </td>
       <td>
-      <a href="https://github.com/shreyaaggarwal4263/shreyaaggarwal4263.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaaggarwal4263&repo=shreyaaggarwal4263.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      <a href="https://github.com/shreyaaggarwal4263/shreyaaggarwal4263">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaaggarwal4263&repo=shreyaaggarwal4263/&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
       </a>
      </td>
   </tr>
