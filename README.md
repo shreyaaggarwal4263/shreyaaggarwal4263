@@ -1,16 +1,16 @@
 ## Hey there, happy to see you... 
 
-I'm [Shreya Aggarwal](https://www.linkedin.com/in/shreya-aggarwal-1627b8119/)!, a passionate Programmer 🚀.
+I'm [Shreya Aggarwal](https://www.linkedin.com/in/shreya-aggarwal-1627b8119/) !, a passionate Programmer 🚀.
 <!-- Thankful to [Coding Blocks](http://codingblocks.com/). <br> -->
 A M.Tech student at [Graphic Era University](https://www.geu.ac.in). Dream to be a <b>FAANG™️</b> Engineer.<br>
 <!-- Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/). -->
 Love to solve complex things in simple ways.
 
   <img align="left" alt="GIF" src="https://github.com/shreyaaggarwal4263/shreyaaggarwal4263/blob/main/hi%20.gif" width="230px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsamyak9&theme=dark&show_icons=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaaggarwal4263&theme=dark&show_icons=true">
 
 
-<a href="https://www.linkedin.com/in/samyak-jain-1802">
+<a href="https://www.linkedin.com/in/shreya-aggarwal-1627b8119/">
   <img align="center" alt="Samyak's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/jainsamyak9/">
@@ -25,17 +25,11 @@ Love to solve complex things in simple ways.
 <a href="https://twitter.com/jainsamyak9">
   <img align="center" alt="Samyak's Twitter" width="25px" src="Assets/twitter.png" />
 </a>
-<a href="https://www.codechef.com/users/jainsamyak9">
-  <img align="center" alt="Samyak's Codechef" width="25px" src="Assets/codechef.png" />
-</a>
-<a href="https://www.hackerrank.com/jainsamyak9">
-  <img align="center" alt="Samyak's Hackerrank" width="25px" src="Assets/hackerrank.png" />
-</a>
-<a href="https://github.com/jainsamyak9">
+<a href="https://github.com/shreyaaggarwal4263">
   <img align="center" alt="Samyak's Github" width="25px" src="Assets/github.png" />
 </a>
-<a href="mailto:jainsamyak9@gmail.com?subject=Hey%20Samyak,%20From%20Github">
-  <img align="center" alt="Samyak's Gmail" width="25px" src="Assets/gmail.png" />
+<a href="mailto:shreya.aggarwal4263@gmail.com?subject=Hey%20Shreya,%20From%20Github">
+  <img align="center" alt="Shreya's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 <br><br>
 
@@ -48,9 +42,8 @@ Love to solve complex things in simple ways.
 - 👨🏻‍💻I do competitive programming and love ML, DL and DS.
 - 🤝Ask anything, would love to help if I can.
 - 🏢Available for Internships.
-- 📝Resume -> <a href="https://drive.google.com/file/d/1MdTI2GJsU_C0vwG0Vs2fr1LjmnT1Fng5/view?usp=sharing"><img align="center" alt="Samyak's Resume" width="35px" src="Assets/resume.png" /></a><br>
- 📝My Website -> <a href="https://nerdprojects.in/"><img align="center" alt="Hamdan's Resume" width="35px" src="website.jpg" /></a> 
-<hr>
+- 📝Resume -> <a href="https://drive.google.com/file/d/1MdTI2GJsU_C0vwG0Vs2fr1LjmnT1Fng5/view?usp=sharing"><img align="center" alt="Shreya's Resume" width="35px" src="Assets/resume.png" /></a><br>
+
 
 ***Techs and tools I use :***
 
@@ -78,20 +71,20 @@ Love to solve complex things in simple ways.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/jainsamyak9/jainsamyak9"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainsamyak9&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
+      <a href="https://github.com/shreyaaggarwal4263/shreyaaggarwal4263"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaaggarwal4263&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
       </a>
      </td>
       <td>
-      <a href="https://github.com/jainsamyak9/jainsamyak9.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainsamyak9&repo=jainsamyak9.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      <a href="https://github.com/shreyaaggarwal4263/shreyaaggarwal4263.github.io">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaaggarwal4263&repo=shreyaaggarwal4263.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
       </a>
      </td>
   </tr>
 </table>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jainsamyak9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreyaaggarwal4263)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
