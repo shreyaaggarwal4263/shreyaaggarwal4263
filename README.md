@@ -1,6 +1,6 @@
 ## Hey there, happy to see you... 
 
-I'm [Samyak Jain](https://www.linkedin.com/in/samyak-jain-1802)!, a passionate [Programmer](https://intellipaat.com/artificial-intelligence-masters-training-course/) 🚀.
+I'm [Shreya Aggarwal](https://www.linkedin.com/in/samyak-jain-1802)!, a passionate [Programmer](https://intellipaat.com/artificial-intelligence-masters-training-course/) 🚀.
 <!-- Thankful to [Coding Blocks](http://codingblocks.com/). <br> -->
 A CS student at [Chandigarh University](https://www.cuchd.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
 <!-- Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/). -->
