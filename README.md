@@ -11,22 +11,17 @@ Love to solve complex things in simple ways.
 
 
 <a href="https://www.linkedin.com/in/shreya-aggarwal-1627b8119/">
-  <img align="center" alt="Samyak's LinkedIN" width="25px" src="Assets/linkedin.png" />
+  <img align="center" alt="Shreya's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/jainsamyak9/">
-  <img align="center" alt="Samyak's Instagram" width="25px" src="Assets/instagram.jpg" />
+
+<a href="https://t.me/shreya4263">
+  <img align="center" alt="Shreya's Telegram" width="25px" src="Assets/telegram.jpg" />
 </a>
-<a href="https://www.facebook.com/samyakjain18">
-  <img align="center" alt="Samyak's Facebook" width="25px" src="Assets/facebook.png" />
-</a>
-<a href="http://t.me/jainsamyak9">
-  <img align="center" alt="Samyak's Telegram" width="25px" src="Assets/telegram.jpg" />
-</a>
-<a href="https://twitter.com/jainsamyak9">
-  <img align="center" alt="Samyak's Twitter" width="25px" src="Assets/twitter.png" />
+<a href="https://twitter.com/ShreyaA775410389">
+  <img align="center" alt="Shreya's Twitter" width="25px" src="Assets/twitter.png" />
 </a>
 <a href="https://github.com/shreyaaggarwal4263">
-  <img align="center" alt="Samyak's Github" width="25px" src="Assets/github.png" />
+  <img align="center" alt="Shreya's Github" width="25px" src="Assets/github.png" />
 </a>
 <a href="mailto:shreya.aggarwal4263@gmail.com?subject=Hey%20Shreya,%20From%20Github">
   <img align="center" alt="Shreya's Gmail" width="25px" src="Assets/gmail.png" />
@@ -36,13 +31,12 @@ Love to solve complex things in simple ways.
 
 **Talking about Personal Stuffs:**
 
-- 📈I'm currently pursuing my Machine Learning.
 - 💻I love innovating new things which can transform the living.
 - 🤓Making new things learning new stuffs.
 - 👨🏻‍💻I do competitive programming and love ML, DL and DS.
 - 🤝Ask anything, would love to help if I can.
-- 🏢Available for Internships.
-- 📝Resume -> <a href="https://drive.google.com/file/d/1MdTI2GJsU_C0vwG0Vs2fr1LjmnT1Fng5/view?usp=sharing"><img align="center" alt="Shreya's Resume" width="35px" src="Assets/resume.png" /></a><br>
+
+- 📝Resume -> <a href="https://drive.google.com/file/d/1ih4aC7Fb9tt7fw2G91V6HmP2TaTwUZ0I/view?usp=sharing"><img align="center" alt="Shreya's Resume" width="35px" src="Assets/resume.png" /></a><br>
 
 
 ***Techs and tools I use :***
